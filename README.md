@@ -10,6 +10,7 @@ A Python tool that converts iCalendar (iCal) files from shared Outlook calendars
 - 🕒 Proper timezone handling
 - 📝 Generates clean, organized Markdown output
 - 📊 Groups events by day for better readability
+- 🚫 Removes Zoom and Teams meeting invites
 
 ## Requirements
 
